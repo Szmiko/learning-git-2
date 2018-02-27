@@ -1,9 +1,4 @@
 node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
 
-<<<<<<< HEAD
-
-
 node_modules/.bin/nu-html-checker-cli -f <*.html>
-=======
-node_modules/.bin/nu-html-checker-cli -f <*.html>
->>>>>>> 85e38f437d62f3a4bf5a8737efb5a9b3e028cd1c
+
